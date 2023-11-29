@@ -1,0 +1,73 @@
+
+/* header */
+
+.container {
+    width: 906px;
+    margin: 0 auto;
+    padding: 0,15;
+}
+
+.header {
+
+}
+.header__nav {
+}
+.header__nav-list {
+    margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.header__nav-item:first-child{
+    color: #03A9F4;
+    font-family: Playfair Display;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.header__nav-item {
+    color: #7D7D7D;
+font-family: Playfair Display;
+font-size: 14px;
+font-weight: 400;
+}
+
+.header__nav-link {
+    color: currentColor;
+    text-decoration: none;
+}
+
+/* main */
+
+.blog__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;  
+}
+.blog__item {
+}
+.blog__item-img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.blog__item-subtitle {
+    color: #B4AD9E;
+    font-family: Ubuntu;
+    font-size: 14px;
+    font-weight: 300;
+}
+.blog__item-title {
+    color: #626262;
+font-family: Playfair Display;
+font-size: 30px;
+font-weight: 400;
+}
+.blog__item-text {
+    color: #626262;
+font-family: Playfair Display;
+font-size: 14px;
+font-weight: 400;
+}
+.blog__button {
+    cursor: pointer;
+}
